@@ -1,0 +1,3 @@
+/Users/dinghba/FindLines/CMakeFiles/edit_cache.dir
+/Users/dinghba/FindLines/CMakeFiles/rebuild_cache.dir
+/Users/dinghba/FindLines/CMakeFiles/find_lines.dir
